@@ -53,7 +53,7 @@ repo/
 
 
 ## References
-(Blank and Deb 2020)
+-(Blank and Deb 2020)
 
 <div id="refs" class="references csl-bib-body hanging-indent">
 
@@ -65,3 +65,30 @@ In IEEE Access, vol. 8, pp. 89497-89509, 2020, doi: 10.1109/ACCESS.2020.2990567
 </div>
 
 </div>
+
+-(Deb, Pratap, Agarwal, and Meyarivan 2020)
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-xie2018" class="csl-entry">
+
+K. Deb, A. Pratap, S. Agarwal, and T. Meyarivan. *A Fast and Elitist Multiobjective Genetic Algorithm: NSGA-II*.
+Trans. Evol. Comp, 6(2):182–197, April 2002. URL: http://dx.doi.org/10.1109/4235.996017, doi:10.1109/4235.996017.
+
+</div>
+
+</div>
+
+-(Blank and Deb 2020)
+
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-xie2018" class="csl-entry">
+
+K. Deb, and H. Jain.  *An Evolutionary Many-Objective Optimization Algorithm Using Reference-Point Based Nondominated Sorting Approach, Part I: Solving Problems with Box Constraints*. 
+IEEE Transactions on Evolutionary Computation, 18(4):577–601, 2014. doi:10.1109/TEVC.2013.2281535.
+
+</div>
+
+</div>
+
