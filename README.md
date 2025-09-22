@@ -53,7 +53,7 @@ repo/
 
 
 ## References
--(Blank and Deb 2020)
+- (Blank and Deb 2020)
 
 <div id="refs" class="references csl-bib-body hanging-indent">
 
@@ -66,7 +66,7 @@ In IEEE Access, vol. 8, pp. 89497-89509, 2020, doi: 10.1109/ACCESS.2020.2990567
 
 </div>
 
--(Deb, Pratap, Agarwal, and Meyarivan 2020)
+- (Deb, Pratap, Agarwal, and Meyarivan 2020)
 
 <div id="refs" class="references csl-bib-body hanging-indent">
 
@@ -79,7 +79,7 @@ Trans. Evol. Comp, 6(2):182–197, April 2002. URL: http://dx.doi.org/10.1109/42
 
 </div>
 
--(Blank and Deb 2020)
+- (Blank and Deb 2020)
 
 <div id="refs" class="references csl-bib-body hanging-indent">
 
