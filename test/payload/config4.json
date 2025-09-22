@@ -1,0 +1,23 @@
+{
+    "name": "config4",
+    "algorithms": [
+        "nsga2",
+        "nsga3"
+    ],
+    "algo_params": {
+        "population_size": 300,
+        "n_gen": 60,
+        "seed": 99,
+        "ref_partitions": 16,
+        "sampling": "real_random",
+        "crossover": {
+            "name": "real_sbx",
+            "prob": 0.9,
+            "eta": 20
+        },
+        "mutation": {
+            "name": "real_pm",
+            "eta": 25
+        }
+    }
+}

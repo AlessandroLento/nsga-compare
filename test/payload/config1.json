@@ -1,0 +1,13 @@
+{
+    "name": "config1",
+    "algorithms": [
+        "nsga2",
+        "nsga3"
+    ],
+    "algo_params": {
+        "population_size": 300,
+        "n_gen": 30,
+        "seed": 1,
+        "ref_partitions": 12
+    }
+}

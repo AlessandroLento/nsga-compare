@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "nsga-compare"
+version = "0.1.0"
+description = "Compare NSGA-II and NSGA-III algorithms from pymoo across test problems"
+authors = ["Alessandro Lento <alessandrolento1@gmail.com>"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pymoo = "^0.6.0"
+numpy = "*"
+matplotlib = "*"
+pandas = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
