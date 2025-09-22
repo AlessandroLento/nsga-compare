@@ -52,6 +52,12 @@ repo/
 - After running, results (populations, front scatterplots, metrics) are stored under `result/`.
 
 
+## TODO
+- Add parameters to switch between the elementwise implementation and the vector implementation
+- Add LayerEnergy implementation to the get_reference_dirs mechanism
+- Add timing benchmarks for the two algorithms
+
+
 ## References
 - (Blank and Deb 2020)
 
